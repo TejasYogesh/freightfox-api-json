@@ -1,4 +1,4 @@
-# Dataset API — Spring Boot Assignment
+# freightfox - JSON group by and sort by — Spring Boot Assignment
 
 A RESTful API for inserting and querying JSON records with Group-By and Sort-By operations.
 
