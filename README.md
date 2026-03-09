@@ -2,7 +2,12 @@
 
 A RESTful API for inserting and querying JSON records with Group-By and Sort-By operations.
 
+# This is the output of the assignment in the video reference:
+https://drive.google.com/file/d/1RGxb3YakRVDE0u724Bm7p2iLwC1ckqKx/view?usp=sharing
 ---
+# Some of the screenshots of the assignment output:
+
+<img width="1238" height="633" alt="image" src="https://github.com/user-attachments/assets/f67e215b-78c8-4ad7-ac3e-703d2c3e2d64" />
 
 ## 🚀 How to Run
 
